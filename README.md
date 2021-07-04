@@ -1,5 +1,5 @@
 # Controle_de_estoque
-Faz o gerenciamento de um estoque com suas operações básicas de adicionar, editar, excluir e mostrar os produtos. 
+Programa desenvolvido em C++ que faz o gerenciamento de um estoque com suas operações básicas de adicionar, editar, excluir e mostrar os produtos. 
 Os produtos são salvos em um arquivo de texto.
 O controle é feito via linha de comando.
 A cada que ação que você fizer em cima de um produto, uma consultora irá falar o que você fez
