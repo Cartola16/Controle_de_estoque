@@ -1,0 +1,11 @@
+Celulas 12222 123,989998
+Protecao 53 237,990005
+Escrivaninha 23 120,989998
+Computador 12 12,990000
+Macarrao 50 12,000000
+Hamburger(X-BACON) 120 18,990000
+Cronoemtro 21 21,000000
+Shymmy 0 0,000000
+Shymmy 0 0,000000
+bezerro 2 2,000000
+carne 2 1,000000
